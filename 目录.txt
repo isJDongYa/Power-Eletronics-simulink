@@ -1,0 +1,63 @@
+第3章 整流电路
+1. 单相半波可控整流电路电阻负载(Single_phase_hw_R.mdl)
+2. 单相半波可控整流电路电阻电感负载(Single_phase_hw_LR.mdl)
+3. 单相半波可控整流电路电阻电感负载带续流二极管(Single_phase_hw_DLR.mdl)
+4. 单相桥式全控整流电路电阻负载(Single_phase_bridge_R.mdl)
+5. 单相桥式全控整流电路电阻电感负载(Single_phase_bridge_LR.mdl)
+6. 单相桥式全控整流电路反电势负载(Single_phase_bridge_ER.mdl)
+7. 单相全波可控整流电路(Single_phase_fw.mdl)
+8. 单相桥式半控整流电路(Single_phase_bridge_hc.mdl)
+9. 三相半波可控整流电路电阻负载(Three_phase_hw_R.mdl)
+10.三相半波可控整流电路电阻电感负载(Three_phase_hw_lr.mdl)
+11.三相桥式全控整流电路电阻负载 (Three_phase_bridge_R.mdl)
+12.三相桥式全控整流电路电阻电感负载(Three_phase_bridge_LR1.mdl)
+13.三相半波可控整流电路含变压器漏抗(Three_phase_hw_X.mdl)
+14.单相桥式二极管整流电路电容滤波(Single_phase_bridge_CR.mdl)
+15.单相桥式二极管整流电路LC滤波(Single_phase_bridge_LCR.mdl)
+16.三相桥式二极管整流电路电容滤波(Three_phase_bridge_CR.mdl)
+17.三相桥式二极管整流电路LC滤波(Three_phase_bridge_LCR.mdl)
+18.双反星型整流电路(Double_star_controlled_rectifier.mdl)
+19.12脉波整流电路(Twelvepulses.mdl)
+20.三相桥式全控整流电路逆变工作状态(Three_phase_bridge_inversion.mdl)
+21.三相半波可控整流电路逆变失败 (Three_phase_hw_inversion.mdl)
+
+第4章 逆变电路
+1． 电压型单相半桥逆变电路(HB_inverter.mdl)
+2． 电压型单相全桥逆变电路(FB_inverter1.mdl)
+3． 电压型单相全桥逆变电路移相控制(FB_inverter2.mdl)
+4． 电压型三相全桥逆变电路 (Three_phase_fb_inverter.mdl)
+5． 电流型单相并联谐振式逆变电路 (Single_phase_CSI.mdl)
+6． 电流型三相逆变电路 (Three_phase_CSI.mdl)
+7． 单相二重化逆变电路(Multiple_inverter.mdl)
+
+第5章 直流-直流变流电路
+1. 直流降压斩波电路(Buck.mdl)
+2. 直流升压斩波电路(Boost.mdl)
+3. 直流升降压斩波电路(Buck_boost.mdl)
+4. 电流可逆斩波电路(Current_reversible_chopper.mdl)
+5. 多相多重斩波电路(Multiphase_Buck.mdl)
+6. 正激电路(Forword.mdl)
+7. 反激电路(Flyback.mdl)
+8. 半桥电路(DC_DC_HB.mdl)
+9. 全桥电路(DC_DC_FB.mdl)
+
+第6章 交流-交流变流电路
+1. 单相交流调压电路电阻性负载(Single_phase_AC_Regulator_R.mdl)
+2. 单相交流调压电路电阻电感负载(Single_phase_AC_Regulator_RL.mdl)
+3. 三相交流调压电路电阻负载(Three_phase_AC_Regulator.mdl)
+4. 单相交-交变频电路(Single_phase_cycloconverter.mdl)
+
+
+第7章 PWM逆变电路
+1. 单相桥式单极性调制PWM型逆变电路(FB_inverter_PWM1.mdl)
+2. 单相桥式双极性调制PWM型逆变电路(FB_inverter_PWM2.mdl)
+3. 三相桥式PWM型逆变电路(Three_phase_inverter_PWM.mdl)
+4. 滞环比较方式PWM型逆变电路(Hysteretic_control.mdl)
+5. 单相PWM整流电路(PWM_rectifier.mdl)
+
+第8章 软开关电路
+1. 零电压开关准谐振电路(ZVS_QRC_Buck.mdl)
+2. 谐振直流环电路(Resonant_DC_link.mdl)
+3. 移相全桥零电压开关电路(DC_DC_FB_FSZVS.mdl)
+4. 升压型零电压转换电路(ZVT_Boost.mdl)
+
